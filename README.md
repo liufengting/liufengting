@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-It's an honour to fininal meet you.
+It's an honour to finially meet you.
 
 - 😄 iOS/Objective-C/Swift/Python
 - 🔭 I’m currently working on Python backend projects.
