@@ -2,12 +2,12 @@
 
 It's an honour to finially meet you.
 
-- 😄 iOS/Objective-C/Swift/Python
-- 🔭 I’m currently working on Python backend projects.
-- 🌱 I’m currently learning JS.
+- 😄 `iOS` / `OC` / `Swift` / `Python`
+- 🔭 I’m currently working on `JS` projects.
+- 🌱 I’m currently learning `Vue` / `Java`.
 - 💬 Ask me about anything.
 - 📫 How to reach me: liufengting.work@gmail.com
-- .
+- ...
 
 
 
