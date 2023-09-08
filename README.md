@@ -13,4 +13,4 @@ It's an honour to finially meet you.
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=liufengting&show_icons=true&theme=merko)]()
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=liufengting)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=liufengting&theme=transparent)](https://git.io/streak-stats)
