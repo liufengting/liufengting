@@ -2,7 +2,7 @@
 
 It's an honour to finially meet you.
 
-- 😄 `iOS` / `OC` / `Swift` / `Python`
+- 😄 `iOS` / `OC` / `Swift` / `Python` / `Vue` / `JavaScript`
 - 🔭 I’m currently working on `JS` projects.
 - 🌱 I’m currently learning `Vue` / `Java`.
 - 💬 Ask me about anything.
